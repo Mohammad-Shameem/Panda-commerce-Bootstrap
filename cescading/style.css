@@ -1,0 +1,15 @@
+/* (bootstrap ke over write korte hoy.tobe bootstrap er kono class ke over write kora jabe na. tahoel somossa hobe.over write korte gele jake over write korte chai setake ekta alada common name class dite hobe. abr bootstrap er moto class deya jabe na */
+.panda-bg{
+    background-color:#fceae8;
+}
+.categories img{
+    width: 100px;
+
+}
+.button{
+    background-image: linear-gradient(to bottom,#FF589B 0%, #ff4b92 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
